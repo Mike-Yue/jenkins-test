@@ -6,6 +6,7 @@ if __name__ == "__main__":
 	utc = datetime.datetime.now()
 	print utc
 	print ("lmao idk what's going on")
+	print("Take me through the night")
 
 	#my_zone = tz.tzlocal()
 	#real_time = utc.replace(tzinfo=my_zone)
